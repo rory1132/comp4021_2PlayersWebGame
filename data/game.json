@@ -1,0 +1,6 @@
+{
+"tank": {"tank_x":0,"tank_y":0},
+"bullet": {"bullet_x":0,"bullet_y":0},
+"monster": {"monster_x":0,"monster_y":0},
+"gem": {"gem_x":0,"gem_y":0}
+}
